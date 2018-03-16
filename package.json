@@ -1,0 +1,17 @@
+{
+  "name": "my-node-app",
+  "version": "1.0.0",
+  "description": "My Hello World Editor",
+  "main": "src/main/index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [
+    "Node"
+  ],
+  "author": "Felix Rieseberg <felix@felix.fun>",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^1.8.3"
+  }
+}
